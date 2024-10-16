@@ -7,7 +7,33 @@
 - Industrial Engineer, B.S. | Universidad Icesi (February 2015)
 
 ### Work Experience
-**Maintenance Manager @ Grupo Integrado de Transporte Masivo S.A. (_August 2022 - Present)**
+**Maintenance Planner @ Grupo Integrado de Transporte Masivo S.A. (_Jul 2024 - Sep 2024)**
+- Propose to the Maintenance Department improvement, recovery, and maintenance projects for the fleet, with technical information by component and system of the buses.
+- Plan maintenance for the fleet according to the established wear strategy, operational standards, considering the criticality of equipment, fleet age, and manufacturer manuals.
+- Generate monthly and annual budget information for the Maintenance area based on the maintenance plan and kilometer execution within the information system.
+- Plan resources required for the maintenance plan for the fleet (spare parts, labor, tools, vehicle availability, and pending activities) based on the approved monthly and annual budget.
+- Manage maintenance indicators (maintainability, reliability, fuel efficiency, fleet condition index, and maintenance cost per kilometer).
+- Ensure that daily, monthly, quarterly, and annual management reports are prepared and delivered to the Maintenance Department and General Management.
+- Adjust the maintenance plan according to the fleet's state and age.
+- Manage compliance with contractual commitments with Metro Cali S.A. and other entities.
+- Configure, administer, and manage the maintenance software used by the company.
+- Verify and control information from the support platforms for the Maintenance area.
+- Verify and evaluate daily the information provided by the lubrication and fuel engineer on the fleet's mileage and consumption, and the results of oil sample analyses, adjusting the maintenance system's parametrization.
+- Track and control information on non-compliances reported by Metro Cali S.A. vs. fines and maintenance indicators.
+- Track and control the response to PQRS and OTRS by Metro Cali, which are related to the Maintenance area.
+
+**Maintenance Controller @ Grupo Integrado de Transporte Masivo S.A. (_Jan 2024 - Jul 2024)**
+- Develop, control, and track the annual maintenance budget, performing monthly reconciliations with the finance and procurement areas.
+- Model maintenance costs over the life of the fleet and the concession contract with the Managing Entity.
+- Support the procurement process in evaluating, selecting, and developing suppliers.
+- Make projections of critical and sensitive spare part consumption to ensure fleet availability.
+- Conduct failure analysis, lead strategic planning meetings to design action plans for fleet intervention focused on reliability and contractual compliance.
+- Control and track the mileage and energy and fuel consumption of the fleet.
+- Generate annual, semi-annual, and monthly maintenance schedules for the fleet.
+- Control costs and track all activities in the maintenance process.
+- Track and control information on non-compliances reported by Metro Cali S.A vs. fines and maintenance indicators.
+
+**Maintenance Manager @ Grupo Integrado de Transporte Masivo S.A. (_August 2022 - Jan 2024)**
 - Ensure compliance with the clauses of the current concession contract and its respective others that correspond to the Maintenance area for the provision of the public mass passenger transportation service within the integrated mass transportation system of Santiago de Cali of the Managing Entity.
 - Implement, standardize and improve the management of your process in order to guarantee compliance with the company's objectives and the Integrated Management System.
 - Guarantee compliance with contractual commitments with the Managing Entity, guaranteeing the availability and reliability of the fleet as well as its preventive maintenance.
